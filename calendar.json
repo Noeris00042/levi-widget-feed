@@ -1,0 +1,143 @@
+{
+  "today": "2026-11-10",
+  "examDaysLeft": 40,
+  "updatedAt": "2026-11-10T19:00:20+09:00",
+  "days": [
+    {
+      "date": "2026-11-10",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:45",
+          "end": "23:15",
+          "label": "受験申込",
+          "kind": "study"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "events": [
+        {
+          "start": "09:30",
+          "end": "12:30",
+          "label": "休日勉強",
+          "kind": "study"
+        },
+        {
+          "start": "20:30",
+          "end": null,
+          "label": "予定",
+          "kind": "private"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "events": [
+        {
+          "start": null,
+          "end": "12:30",
+          "label": "予定",
+          "kind": "private"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        }
+      ]
+    }
+  ]
+}
