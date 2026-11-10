@@ -1,31 +1,8 @@
 {
-  "today": "2026-11-10",
-  "examDaysLeft": 40,
-  "updatedAt": "2026-11-10T19:00:20+09:00",
+  "today": "2026-11-11",
+  "examDaysLeft": 39,
+  "updatedAt": "2026-11-11T07:52:46+09:00",
   "days": [
-    {
-      "date": "2026-11-10",
-      "events": [
-        {
-          "start": "08:30",
-          "end": "09:00",
-          "label": "朝勉",
-          "kind": "study"
-        },
-        {
-          "start": "22:00",
-          "end": "22:45",
-          "label": "夜勉",
-          "kind": "study"
-        },
-        {
-          "start": "22:45",
-          "end": "23:15",
-          "label": "受験申込",
-          "kind": "study"
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "events": [
@@ -124,6 +101,23 @@
     },
     {
       "date": "2026-11-17",
+      "events": [
+        {
+          "start": "08:30",
+          "end": "09:00",
+          "label": "朝勉",
+          "kind": "study"
+        },
+        {
+          "start": "22:00",
+          "end": "22:45",
+          "label": "夜勉",
+          "kind": "study"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
       "events": [
         {
           "start": "08:30",
